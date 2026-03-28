@@ -21,5 +21,4 @@ public class CountSetBits {
 		
 		System.out.println("Count of Set Bits : "+CountSetBit(n));
 	}
-
 }
